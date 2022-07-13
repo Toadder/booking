@@ -1189,6 +1189,7 @@ input._error {
 .filters-booking__date input {
   border-radius: inherit;
   border: 1px solid #e7e9f2;
+  background-color: white;
   font-weight: 600;
   font-size: 16px;
   line-height: 135%;
